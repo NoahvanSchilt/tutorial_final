@@ -1,1 +1,17 @@
 @charset "UTF-8";
+
+body {
+	background-size: cover;
+	background-color: lightblue;
+	color: black;
+}
+
+.meadowbackground {
+	background-size: cover;
+	background-image: url("../images/BG1.jpg")
+}
+
+.my-navbar{
+	background-color: lightblue
+	
+}
