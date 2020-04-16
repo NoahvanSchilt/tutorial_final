@@ -3,7 +3,7 @@
 body {
 	background-size: cover;
 	background-color: lightblue;
-	color: black;
+	color:black;
 }
 
 .meadowbackground {
@@ -12,6 +12,16 @@ body {
 }
 
 .my-navbar{
-	background-color: lightblue
+	background-color: lightblue;
 	
+}
+
+.display-4{
+	color: white;
+	
+}
+
+.footer-text{
+	color: lightgoldenrodyellow;
+	font-style: italic;
 }
